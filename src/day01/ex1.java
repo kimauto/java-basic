@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package day01;
 
 public class ex1 {
     public static void main(String[] args) {
