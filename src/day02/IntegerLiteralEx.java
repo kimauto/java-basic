@@ -14,6 +14,13 @@ public class IntegerLiteralEx {
         int z = 0xB;
         System.out.println(z);
 
+        int var1 = 0b1011;
+        int var2 = 0206;
+        int var3 = 365;
+        int var4 = 0xB3;
+
+        System.out.printf(" %d %d %d %d",var1,var2,var3,var4);
+
 
     }
 }
