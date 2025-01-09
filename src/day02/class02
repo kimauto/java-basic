@@ -1,0 +1,19 @@
+변수,메소드 선언할때
+camel 스타일을 적용하여 명명하는 것을 권장
+score
+mathScore
+sportCar
+
+클래스명, 소스파일 이름을 지정할때는
+- Week.java, Member.java ProductKind.java
+
+문제2)  정수형 면수 value 선언
+        value 변수에 10을 할당
+        value 변수에 사용자에게 숫자를 입력받아 해당 숫자를 더한 후 result 변수에 저장
+        result 출력하는 addSum클래스를 작성하여 결과를 확인하세요
+
+문제3) FourArithmetic, Operator 클래스의
+      기능을 같은 이름의 메소드로 분리하고
+      Scanner 클래스를 이용하여
+      두 정수를 입력받는 기능을 공통기능으로 활용하여
+      TotalEx01 클래스로 작성하세요
