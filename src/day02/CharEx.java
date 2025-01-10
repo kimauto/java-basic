@@ -12,5 +12,10 @@ public class CharEx {
 
         System.out.printf("%c %c %c %c",c1,c2,c3,c4);
 
+        double a = 100.0;
+        int b = 200;
+        System.out.println(a + " " + b);
+        System.out.printf("%.2f      %d",a,b);
+
     }
 }
