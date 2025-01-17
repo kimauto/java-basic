@@ -62,10 +62,12 @@ public class StringEx1 {
         System.out.println();
         System.out.println("=========================");
 
-        for(String data : tokens){   //향상된 for 또는 for-each문  
+        for(String data : tokens){   //향상된 for 또는 for-each문
             System.out.println(data);
         }
         System.out.println();
+
+
         System.out.println("=========================");
         for(int index = 0  ; index < tokens.length; index++){
             System.out.println(tokens[index]);
