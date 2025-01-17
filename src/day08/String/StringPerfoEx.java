@@ -1,4 +1,4 @@
-package day08;
+package day08.String;
 
 public class StringPerfoEx {
     public static void main(String[] args) {

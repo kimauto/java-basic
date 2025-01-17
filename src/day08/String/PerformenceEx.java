@@ -1,5 +1,7 @@
-package day08;
-
+package day08.String;
+//String , StringBuffer, StringBuilder 객체를 선언하고 5만번을 루프하여 "*"문자를 추가한 로직
+//duration1, duration2, duration3 변수에 계산하여 비교해 보자
+//비교해 보면 싱글쓰레드 환경 스트링 작업은 StringBuilder 성능 월등하다.
 public class PerformenceEx {
     public static void main(String[] args) {
         final int lengths = 50000;

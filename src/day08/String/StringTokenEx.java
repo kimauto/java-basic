@@ -1,4 +1,4 @@
-package day08;
+package day08.String;
 
 import java.util.StringTokenizer;
 

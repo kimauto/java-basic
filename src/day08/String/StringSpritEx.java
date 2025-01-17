@@ -1,4 +1,4 @@
-package day08;
+package day08.String;
 //자바 문자열 자르는 방법 2가지
 //1. String 클래스의 split()  java.lang.String
 //매개변수(parameter)갯수가 다른 2개로 오버로딩 되어 있다.
